@@ -1,0 +1,70 @@
+
+main{
+
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+h1{
+text-align: center;
+color: rgb(255, 162, 0);
+background-color: rgb(121, 129, 129);
+margin: auto;
+
+}
+.navbar ul{
+
+ list-style-type: none;  
+    background-color: rgb(151, 148, 148);
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+
+}
+.navbar a{
+color: white;
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+}
+
+.navbar a:hover{
+
+    background-color: rgb(237, 226, 226);
+
+}
+
+.navbar li{
+
+    
+float: left;
+
+}
+
+h3{
+    margin-left: 0px;
+    color: rgb(120, 61, 61)  
+}
+footer{
+margin-left: 600px;
+margin-right: 600px;
+
+}
+
+p a{
+
+    text-decoration: underline;
+    color: #f68443;
+   
+}
+
+ img{
+float: unset;
+  
+}
+
+main form {
+
+
+}
